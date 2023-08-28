@@ -18,4 +18,6 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
-translations/.DS_Store
+
+### Ignore MacOS trash globaly ###
+.DS_Store
