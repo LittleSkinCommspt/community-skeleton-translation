@@ -20,5 +20,6 @@
 ###< phpunit/phpunit ###
 
 ### Ignore MacOS trash globaly ###
+.DS_Store
 /.DS_Store
 */.DS_Store
